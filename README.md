@@ -1,12 +1,12 @@
-## AXIT Template
-## Modern Axure Template for Beautiful Prototypes
+# AXIT Template
+# Modern Axure Template for Beautiful Prototypes
 
 This project is a responsive, modern website template built with HTML, CSS, and Font Awesome. It provides a visually appealing and user-friendly interface ideal for prototypes, personal projects, or small businesses.
 
-## 🖥️ Preview
+# 🖥️ Preview
 - **Live Demo**: [View Website](https://rawan-arby.github.io/AXIT/)
   
-## ✨ Features
+# ✨ Features
 - **Hero Section**: Engaging header and free trial form for conversions.
 - **Dynamic Tabs**: Soft transitions for a better user experience.
 - **Social Media Integration**: Links to popular platforms like Facebook, Instagram, and Twitter.
@@ -14,12 +14,12 @@ This project is a responsive, modern website template built with HTML, CSS, and 
 - **Customer Reviews**: Highlights customer satisfaction.
 - **Fully Customizable**: Tailor the design and content to fit your requirements.
 
-## 🛠️ Built With
+# 🛠️ Built With
 **HTML5**
 **CSS3**
 **Font Awesome**
 
-## 🎨 Sections Overview
+# 🎨 Sections Overview
 1. **Header**
 Navigation menu with smooth scroll to sections:
 Features, About, Pricing, Reviews, Contact
